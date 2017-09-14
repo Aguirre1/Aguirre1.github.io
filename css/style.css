@@ -88,3 +88,10 @@ header{
   #newsletter h1{
     float:left;
   }
+  
+  #newsletter form {
+    float:right;
+    margin-top:15px;
+  }
+  
+  #newsletter input[type="email"]
