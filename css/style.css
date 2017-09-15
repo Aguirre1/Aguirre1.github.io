@@ -50,7 +50,7 @@ header{
     float:left;
   }
   
-  header #branding h1{
+  header #branding H1{
     margin:0;
   }
   
@@ -77,7 +77,7 @@ header{
     color:#ffffff;
   }
   
-  #showcase h1{
+  #showcase H1{
     margin-top:100px;
     font-size:55px;
     margin-bottom:10px;
@@ -95,7 +95,7 @@ header{
   }
   
   
-  #newsletter h1{
+  #newsletter H1{
     float:left;
   }
   
@@ -120,4 +120,14 @@ header{
     text-allign: center;
     width:30%;
     padding:10px;
+  }
+  
+  #boxes .box img{
+    width:90px;
+  }
+  
+  footer{
+    padding:20px;
+    margin-top:20px;
+    color:#ffffff;
   }
