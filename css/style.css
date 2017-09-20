@@ -23,6 +23,20 @@ body{
     padding-right:20px;
     color:#ffffff;
   }
+  
+  
+  .dark{
+    padding:15px;
+    background:#35424a;
+    color:#ffffff;
+    margin-top:10px;
+    margin-bottom:10px; 
+    
+  }
+
+
+
+
 
 /* header **/
 header{
@@ -133,6 +147,8 @@ header{
     margin-top:10px;
   }
   
+ 
+ 
   /* Main coL */
   article#main-col{
     float:left;
